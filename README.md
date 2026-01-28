@@ -1,4 +1,4 @@
-# LinkedINChain - Decentralized Social Media on Solana
+# Decentralized Social Media on Solana
 
 LinkedINChain is a decentralized social media platform built on the Solana blockchain, It allows users to create profiles, post messages, and interact with the community in a decentralized manner using Solana wallets.
 
